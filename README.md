@@ -20,6 +20,6 @@ datetime
 4.type this command:
 python calculate.py
 
-## Copyrights and Licenses
+## Copyrights 
 © Mostafa Ahmed
-[LICENSE] (LICENSE)
+
