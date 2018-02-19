@@ -4,7 +4,7 @@ import datetime
 #a certain amount of pounds
 
 Current_weight = int(input("Current weight in pounds:"))
-goal_weight = int(input("Dsired weight in pounds:"))
+goal_weight = int(input("Desired weight in pounds:"))
 avg_lbs_week = 1.5
 
 start_date = datetime.date.today()
