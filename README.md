@@ -22,4 +22,4 @@ python calculate.py
 
 ## Copyrights and Licenses
 © Mostafa Ahmed
-[MIT License] (LICENSE)
+[LICENSE] (LICENSE)
